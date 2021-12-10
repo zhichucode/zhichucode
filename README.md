@@ -1,4 +1,3 @@
-![Alt](https://repobeats.axiom.co/api/embed/1a6bc4ec6ea8b5a2d06de4741cfb08f27ef4dc09.svg "Repobeats analytics image")
 <!--
 **zhichucode/zhichucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
